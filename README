@@ -1,0 +1,8 @@
+Node.JS / Angular powered version of the classic game Tic Tac Toe
+
+
+Instructions:
+1. Clone repository
+2. CD to directory
+3. npm install
+4. node app
